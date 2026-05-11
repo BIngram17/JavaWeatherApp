@@ -2,6 +2,16 @@
 
 JavaWeatherApp is a desktop weather application built with Java Swing. It allows users to search for a city or location and view current weather conditions, a 5-day forecast, unit conversion, city search suggestions, and recent search history.
 
+## Screenshots
+
+### Main Weather View
+
+![Main Weather View](screenshots/main-weather-view.png)
+
+### 5-Day Forecast
+
+![5-Day Forecast](screenshots/forecast-view.png)
+
 ## Features
 
 - Search weather by city or location
@@ -31,6 +41,9 @@ JavaWeatherApp
 ├── config.example.properties
 ├── lib
 │   └── json-20251224.jar
+├── screenshots
+│   ├── main-weather-view.png
+│   └── forecast-view.png
 ├── src
 │   └── weatherapp
 │       ├── BackgroundPanel.java
