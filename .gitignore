@@ -1,0 +1,24 @@
+# Local API key config
+config.properties
+
+# Java compiled output
+bin/
+*.class
+
+# Eclipse settings
+.settings/
+
+# Build output folders
+target/
+out/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
